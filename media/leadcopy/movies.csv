@@ -1,0 +1,580 @@
+movieId,title,genres
+1,A Aa,Adventure|Animation|Children|Comedy|Fantasy
+2,Aadu Magaadra Bujji,Adventure|Children|Fantasy
+3,Aagadu,Comedy|Romance
+4,Aakasa Ramanna,Comedy|Drama|Romance
+5,Aakatayi,Comedy
+6,Aalasyam Amrutam,Action|Crime|Thriller
+7,Aatadukundam Raa,Comedy|Romance
+8,Aatagadharaa Siva,Adventure|Children
+9,Aatagallu,Action
+10,Aaviri,Action|Adventure|Thriller
+11,Abbai Class Ammai Mass,Comedy|Drama|Romance
+12,Abbayitho Ammayi,Comedy|Horror
+13,ABCD: American Born Confused Desi (2019 film),Adventure|Animation|Children
+14,Achari America Yatra,Drama
+15,Action 3D,Action|Adventure|Romance
+16,Adda (2013 film),Crime|Drama
+17,Adhinayakudu,Drama|Romance
+18,Adhugo,Comedy
+19,Adhurs,Comedy
+20,Agent Sai Srinivasa Athreya,Action|Comedy|Crime|Drama|Thriller
+21,Agnyaathavaasi,Comedy|Crime|Thriller
+22,Aha Naa Pellanta! (2011 film),Crime|Drama|Horror|Mystery|Thriller
+23,Akhil (film),Action|Crime|Thriller
+24,Ala Ela,Drama|Sci-Fi
+25,Ala Modalaindi,Drama|Romance
+26,Alias Janaki,Drama
+27,All the Best (film),Children|Drama
+28,Alludu Seenu,Drama|Romance
+29,Amar Akbar Anthony (2018 film),Adventure|Drama|Fantasy|Mystery|Sci-Fi
+30,Ami Thumi,Crime|Drama
+31,Amma Rajyam Lo Kadapa Biddalu,Drama
+32,Ammammagarillu,Mystery|Sci-Fi|Thriller
+34,Amrutham Chandamamalo,Children|Drama
+36,Anaamika,Crime|Drama
+38,Anando Brahma,Children|Comedy
+39,Andala Rakshasi,Comedy|Romance
+40,Andari Bandhuvaya,Drama
+41,Andhhagadu,Drama|War
+42,Andhra Pori,Action|Crime|Drama
+43,Angel (2017 film),Drama
+44,The Angrez 2,Action|Adventure|Fantasy
+45,Antariksham 9000 KMPH,Comedy|Drama|Thriller
+46,Anthaka Mundu Aa Tarvatha,Drama|Romance
+47,Anthaku Minchi,Mystery|Thriller
+48,Antham (2016 film),Animation|Children|Drama|Musical|Romance
+49,Anukshanam,Drama|Romance
+50,Appatlo Okadundevadu,Crime|Mystery|Thriller
+52,Aravind 2,Comedy|Drama|Romance
+53,Aravinda Sametha Veera Raghava,Adventure|Drama
+54,Arddhanaari,Children|Comedy
+55,Arjun Reddy,Drama
+57,Arjun Suravaram,Drama
+58,Artificial (film),Comedy|Drama|Romance
+60,Asura (2015 film),Adventure|Children|Fantasy
+61,Athadu Aame o Scooter,Drama|Thriller
+62,Attack (2016 film),Drama
+63,Attarintiki Daredi,Comedy|Crime
+64,Autonagar Surya,Comedy|Romance
+65,Avatharam (2014 Telugu film),Comedy
+66,Avunu (film),Action|Sci-Fi|Thriller
+68,Avunu 2,Comedy|Romance
+69,Awe (film),Comedy
+70,Ayyare,Action|Comedy|Horror|Thriller
+71,Baadshah (2013 film),Action
+72,Baahubali 2: The Conclusion,Comedy|Drama
+73,Baahubali: The Beginning,Drama|War
+74,Baava,Drama|Romance
+75,Babloo,Comedy|Drama
+76,Babu Baga Busy,Action|Sci-Fi|Thriller
+77,Babu Bangaram,Documentary
+78,Backbench Student,Action|Crime|Drama|Thriller
+79,Badrinath (film),Drama|Thriller
+80,Balakrishnudu,Children|Drama
+81,Bandipotu (2015 film),Crime|Drama|Romance
+82,Bangaru Kodipetta,Comedy|Drama
+83,Banthi Poola Janaki,Drama|Romance
+85,Beeruva,Drama|Romance
+86,Bejawada (film),Action|Adventure|Drama
+87,Bengal Tiger (2015 film),Children|Comedy
+88,Betting Bangaraju,Comedy
+89,Bewars,Action|Thriller
+92,Bhaagamathie,Drama|Horror|Thriller
+93,Bhagyanagara Veedullo Gamattu,Comedy|Horror|Romance
+94,Bhai (2013 film),Comedy|Drama|Romance
+95,Bhairava Geetha,Action|Adventure|Thriller
+96,Bhale Bhale Magadivoy,Comedy|Drama
+97,Bhale Manchi Roju,Crime|Drama
+99,Bhale Mogudu Bhale Pellam,Documentary
+100,Bham Bolenath,Drama|Thriller
+101,Bheemili Kabaddi Jattu,Adventure|Comedy|Crime|Romance
+102,Bhimavaram Bullodu,Comedy
+103,Bindaas (2010 film),Mystery|Sci-Fi|Thriller
+104,Biskett,Comedy
+105,Bluff Master (2018 film),Drama|Romance
+106,Bodyguard (2012 film),Comedy|Drama
+107,Boochamma Boochodu,Adventure|Children|Comedy|Musical
+108,Brahmalokam To Yamalokam Via Bhulokam,Documentary
+110,Brahmotsavam (film),Action|Drama|War
+111,Brand Babu,Crime|Drama|Thriller
+112,Brindavanam (2010 film),Action|Adventure|Comedy|Crime
+113,Brochevarevarura,Drama|Mystery
+116,Broker (2010 film),Documentary
+117,Brother of Bommali,Crime|Drama
+118,Bruce Lee: The Fighter,Comedy|Romance
+119,Burra Katha (film),Comedy
+121,Bus Stop (2012 film),Drama
+122,Businessman (film),Comedy|Romance
+123,C/o Kancharapalem,Drama|Mystery|Romance
+125,Cameraman Gangatho Rambabu,Comedy
+126,Chakkiligintha,Adventure|Children|Fantasy
+128,Chal Mohan Ranga,Documentary
+129,Chalo,Comedy|Romance
+132,Chammak Challo (film),Thriller
+135,Chanakya (2019 film),Comedy
+137,Chandamama Kathalu,Documentary
+140,Chandee,Drama|Romance
+141,Chattam,Comedy
+144,Chi La Sow,Comedy
+145,Chikati Gadilo Chithakotudu,Action|Comedy|Crime|Drama|Thriller
+146,Chinna Cinema,Adventure|Children
+147,Chinnadana Nee Kosam,Drama
+148,Chitralahari (film),Drama
+149,Chitrangada (film),Crime|Drama|Thriller
+150,Chukkalanti Ammayi Chakkanaina Abbayi,Adventure|Drama|IMAX
+151,Chuttalabbai,Action|Drama|Romance|War
+152,Cinema Choopistha Mava,Drama|Horror
+153,Collector Gari Bharya,Action|Adventure|Comedy|Crime
+154,Columbus (2015 film),Drama
+155,Courier Boy Kalyan,Adventure|Drama|War
+156,Crazy Crazy Feeling,Comedy|Drama
+157,Cricket Girls & Beer,Comedy|War
+158,Current Theega,Adventure|Children
+159,D for Dopidi,Crime|Drama|Mystery
+160,D/O Varma,Action|Adventure|Mystery|Sci-Fi
+161,Daggaraga Dooranga,Drama|Thriller|War
+162,Dagudumootha Dandakor,Documentary
+163,Dalam,Action|Romance|Western
+164,Damarukam,Crime|Film-Noir|Mystery|Thriller
+165,Dammu,Action|Crime|Thriller
+166,Dandakaranyam,Comedy|Crime|Drama
+168,Darling (2010 film),Action|Drama|Romance
+169,Darsakudu,Adventure|Children|Drama
+170,Daruvu,Action|Adventure|Crime|Thriller
+171,Dear Comrade,Comedy|Drama
+172,Denikaina Ready,Action|Sci-Fi|Thriller
+173,Devadas (2018 film),Action|Crime|Sci-Fi
+174,Devaraya (film),Comedy
+175,Devasthanam (film),Drama
+176,Devi (2016 film),Comedy
+177,Devi 2,Horror
+178,Devudu Chesina Manushulu (2012 film),Comedy|Drama
+179,Dhada,Drama|Romance
+180,Dhoni (film),Comedy|Romance
+181,Dhruva (2016 film),Action|Children
+183,Dictator (2016 film),Comedy|Horror|Thriller
+184,Dikkulu Choodaku Ramayya,Drama
+185,Disco (2012 film),Action|Crime|Thriller
+186,DJ: Duvvada Jagannadham,Comedy|Romance
+187,Dohchay,Comedy
+188,Don Seenu,Fantasy|Horror|Mystery
+189,Dongaata (2015 film),Comedy|Fantasy
+190,Dongala Mutha,Thriller
+191,Dookudu,Drama|Romance
+193,Doosukeltha,Drama
+194,Dream (2012 film),Comedy|Drama
+195,Drushyam,Comedy|Drama|Romance
+196,Dwaraka (film),Horror|Sci-Fi
+198,Dying to Be Me,Action|Crime|Drama|Mystery|Sci-Fi|Thriller
+199,Dynamite (2015 film),Drama|Musical|Romance
+201,Edaina Jaragocchu,Drama|Fantasy
+202,Eduru Leni Alexander,Drama|Romance
+203,Ee Maaya Peremito,Comedy
+204,Ee Nagaraniki Emaindhi,Action
+205,Ee Rojullo,Comedy|Drama
+206,Ee Varsham Sakshiga,Documentary
+207,Eedo Rakam Aado Rakam,Drama|Romance
+208,Eedu Gold Ehe,Action|Adventure|Sci-Fi
+209,Eega,Drama
+210,Ego (2018 film),Western
+211,Ekkadiki Pothavu Chinnavada,Drama
+212,Eluka Majaka,Adventure|Comedy|Crime|Mystery
+213,Emo Gurram Egaravachu,Drama
+214,Endukante... Premanta!,Drama|War
+215,Erra Bus,Drama|Romance
+216,Evaru,Comedy
+217,Express Raja,Drama|Thriller
+218,F2: Fun and Frustration,Comedy|Drama
+219,Falaknuma Das,Drama
+220,Fidaa,Horror
+222,Gaayam 2,Drama|Romance
+223,Gabbar Singh (film),Comedy
+224,Gaddalakonda Ganesh,Comedy|Drama|Romance
+225,Gaddam Gang,Drama|Thriller
+227,Galata (film),Action|Thriller
+228,Galipatam,Comedy
+229,Game Over (2019 film),Drama|Thriller
+230,Garam (film),Drama|Thriller
+231,Gautamiputra Satakarni (film),Adventure|Comedy
+232,Gayakudu,Comedy|Drama|Romance
+233,Gayatri (2018 film),Drama
+234,Geetha Govindam,Comedy
+235,Geethanjali (2014 film),Comedy|Drama
+236,Genius (2012 film),Action|Comedy|Romance
+237,Gentleman (2016 film),Comedy|Romance
+238,George Reddy (film),Adventure|Children
+239,Ghazi (film),Animation|Children|Comedy|Romance
+240,Godavari (2006 film),Thriller
+241,Golconda High School,Children|Drama
+242,Golimaar (film),Drama|Musical
+243,Goodachari,Children|Comedy|Fantasy
+246,Gopala Gopala (2015 film),Documentary
+247,Gouravam (2013 film),Crime|Drama
+248,Goutham Nanda,Comedy
+249,Govindudu Andarivadele,Drama|Romance
+250,Graduate (film),Children|Comedy
+251,Greeku Veerudu,Action
+252,Green Signal,Comedy|Romance
+253,Gudu Gudu Gunjam,Drama|Horror
+254,Gulf (film),Drama
+255,Guna 369,Comedy
+256,Gunde Jaari Gallanthayyinde,Comedy|Sci-Fi
+257,Guntur Talkies,Mystery|Thriller
+258,Gunturodu,Adventure|Children|Comedy|Fantasy|Romance
+259,Guppedantha Prema,Crime|Drama|Thriller
+260,Guru (2017 film),Action|Adventure|Sci-Fi
+261,Happy Wedding (2018 film),Drama
+262,Heart Attack (2014 film),Children|Drama
+263,Hello (2017 film),Drama
+265,Hello Guru Prema Kosame,Drama|Fantasy|Romance
+266,Hippi (film),Drama|Romance|War|Western
+267,Hitudu,Comedy
+269,Hora Hori,Drama
+270,Howrah Bridge (2018 film),Drama|Romance
+271,Hrudaya Kaleyam,Drama
+272,Hulchul (2019 film),Comedy|Drama
+273,Husharu,Drama|Horror|Sci-Fi
+274,Hyderabad Love Story,Comedy
+275,Hyper (2016 film),Comedy
+276,I Am That Change,Comedy|Romance
+277,Ice Cream (2014 film),Drama
+278,Ice Cream 2,Comedy
+279,Idam Jagath,Drama
+280,Iddarammayilatho,Drama|Thriller
+281,Iddari Lokam Okate,Comedy|Drama|Romance
+282,Idi Naa Love Story,Drama
+283,Idolle Ramayana,Crime|Drama
+284,Inkosaari,Action|Crime
+285,Intlo Deyyam Nakem Bhayam,Drama|Horror
+287,Inttelligent,Comedy|Romance
+288,Ishq (2012 film),Action|Crime|Thriller
+289,Ism (film),Comedy|Romance
+290,ISmart Shankar,Crime|Drama
+291,Jabardasth (film),Drama|Thriller
+292,Jadoogadu,Action|Drama|Sci-Fi|Thriller
+293,Jaffa (2013 film),Action|Crime|Drama|Thriller
+294,Jagadguru Adi Shankara,Comedy|Romance
+295,Jaguar (2016 film),Comedy|Romance
+296,Jai Bolo Telangana,Comedy|Crime|Drama|Thriller
+298,Jai Lava Kusa,Drama
+299,Jai Simha,Drama
+300,Jai Sriram,Drama
+301,Jaihind 2,Drama|Romance
+302,Jakkanna,Drama|Romance
+303,Jamba Lakidi Pamba (2018 film),Action|Thriller|Western
+304,James Bond (2015 film),Comedy|Drama
+305,Janatha Garage,Comedy
+306,Janda Pai Kapiraju,Drama
+307,Jawaan,Drama
+308,Jaya Janaki Nayaka,Comedy|Drama
+310,Jayammu Nischayammu Raa (2016 film),Comedy
+311,Jersey (2019 film),Horror|Thriller
+312,Jhummandi Naadam,Comedy
+313,Jil (film),Animation|Children
+314,Jodi (2019 film),Children|Drama|Fantasy|Mystery
+315,Joru,Action|Drama|Thriller
+316,Julayi,Action|Adventure|Sci-Fi
+317,Juliet Lover of Idiot,Comedy|Drama|Fantasy
+318,Jump Jilani,Crime|Drama
+319,Jyo Achyutananda,Comedy|Drama|Thriller
+320,Jyothi Lakshmi (film),Film-Noir|Thriller
+321,Kaadhali (2017 film),Drama
+322,Kadhalil Sodhappuvadhu Yeppadi,Comedy|Drama
+324,Kaki(film),Comedy|Drama
+325,Kalavar King,Comedy
+326,Kalki (2019 Telugu film),Drama
+327,Kalyana Vaibhogame,Action|Comedy|Sci-Fi
+328,Kalyanram Kathi,Horror|Thriller
+329,Kamalatho Naa Prayanam,Adventure|Drama|Sci-Fi
+330,Kanche,Action|Crime|Horror
+331,Kandireega,Drama
+332,Karam Dosa,Horror|Sci-Fi
+333,Karthikeya (film),Comedy
+334,Katamarayudu,Drama
+335,Katha Screenplay Darsakatvam Appalaraju,Mystery|Thriller
+336,Kathalo Rajakumari,Drama|War
+337,Kathanam,Drama
+338,Kathi Kantha Rao,Action|Sci-Fi|Thriller
+339,Kavacham (2018 film),Comedy|Romance
+340,Kedi (2010 film),Adventure|Drama|War
+341,Keratam,Drama
+342,Kerintha,Comedy
+343,Keshava (film),Children
+344,Kevvu Keka,Comedy
+345,Key (film),Comedy|Drama
+346,Khaidi No. 150,Drama|Musical
+347,Khaleja,Drama|Film-Noir|Romance
+348,Kick 2,Comedy
+349,Kirrak Party,Action|Crime|Drama|Thriller
+350,Kiss (2013 film),Drama|Mystery|Thriller
+351,Kittu Unnadu Jagratha,Comedy|Drama|Romance
+352,Ko Antey Koti,Comedy|Drama
+353,Kobbari Matta,Action|Crime|Fantasy|Thriller
+354,Komaram Bheem (film),Drama
+355,Kotha Janta,Children|Comedy|Fantasy
+356,Kousalya Krishnamurthy,Comedy|Drama|Romance|War
+357,Krishna Gaadi Veera Prema Gaadha,Comedy|Romance
+358,Krishnam Vande Jagadgurum,Drama
+359,Krishnamma Kalipindi Iddarini,Comedy|Drama|Romance
+360,Krishnarjuna Yudham,Action|Comedy
+361,Krishnashtami,Comedy|Drama|Romance
+362,Kshanam,Adventure|Children|Romance
+363,Kshetram (film),Documentary
+364,Kudirithe Kappu Coffee,Adventure|Animation|Children|Drama|Musical|IMAX
+365,Kumari,Drama
+366,Kundanapu Bomma,Drama|Horror|Mystery|Thriller
+367,Kutti Pisasu,Action|Comedy|Crime|Fantasy
+368,L,Adventure|Comedy|Western
+369,Lacchimdeviki O Lekkundi,Drama
+370,Laddu Babu,Action|Comedy
+371,Ladies & Gentlemen (2015 film),Comedy|Drama
+372,Lakshmi Bomb,Comedy|Drama|Romance
+373,Lakshmi Raave Maa Intiki,Thriller
+374,Lakshmis NTR,Children|Comedy
+376,Lanka (2017 film),Action|Thriller
+377,Lava Kusa (2015 film),Action|Romance|Thriller
+378,LBW: Life Before Wedding,Comedy|Romance
+379,Leader (2010 film),Action|Sci-Fi|Thriller
+380,Legend (2014 film),Action|Adventure|Comedy|Romance|Thriller
+381,Lie (film),Drama|Romance
+382,Life Is Beautiful (2012 film),Drama|Horror|Romance|Thriller
+383,Lion (2015 film),Western
+384,Loafer (2015 film),Action|Crime|Drama
+385,London Babulu,Drama
+386,Loukyam,Drama
+387,Love Cycle,Action|Comedy
+388,Love You Bangaram,Drama
+389,Lover (2018 film),Drama|Romance|War
+390,Lovers (2014 film),Action|Crime|Drama
+391,Luckunnodu,Crime|Drama
+393,Lucky (2012 Telugu film),Action|Adventure|Fantasy
+405,M,Action|Fantasy
+406,Maa Nanna Chiranjeevi,Drama
+407,Maaro (film),Horror|Thriller
+408,Maaya (2014 film),Drama
+409,Madatha Kaja,Crime|Drama
+410,Madha (film),Children|Comedy|Fantasy
+412,Madhumati (2013 film),Drama
+413,Mahanati,Comedy
+414,Mahankali (film),Comedy
+415,Mahanubhavudu,Comedy|Thriller
+416,Maharshi (2019 film),Western
+417,Maine Pyar Kiya (2014 film),Comedy|Romance
+418,Majili,Drama
+419,Majnu (2016 film),Comedy
+420,Malini & Co.,Action|Comedy|Crime|Thriller
+421,Mallela Theeram Lo Sirimalle Puvvu,Adventure|Children|Drama
+422,Mallesham,Thriller
+423,Malli Malli Idi Rani Roju,Action|Thriller
+424,Malli Raava,Drama
+425,Mama Manchu Alludu Kanchu,Drama|Romance
+426,Manam (film),Horror|Sci-Fi|Thriller
+427,Manamantha,Drama|Mystery|Romance|Thriller
+428,Manasara (film),Drama
+429,Manasuku Nachindi,Comedy
+430,Manasunu Maaya Seyake,Comedy|Drama
+431,Manmadhudu 2,Crime|Drama
+432,Manu (film),Adventure|Comedy|Western
+433,Manushulatho Jagratha,Comedy
+434,Maro Charitra (2010 film),Action|Adventure|Thriller
+435,Marshal (film),Comedy|Sci-Fi
+436,Maryada Ramanna,Drama|Thriller
+437,Masala (2013 film),Comedy
+438,Mathu Vadalara,Action|Comedy|Drama
+440,Meda Meeda AbbayiA: Ad Infinitum,Comedy|Romance
+441,A1 Express,Comedy
+442,Aadavallu Meeku Johaarlu (2022 film),Action|Adventure|Sci-Fi
+444,Aaradugula Bullet,Comedy|Romance
+445,Aasha Encounter,Comedy
+446,Acharya (2022 film),Drama|Romance
+448,Adbhutham,Drama
+449,Akhanda,Comedy
+450,Akshara (film),Comedy|Drama
+451,Ala Vaikunthapurramuloo,Drama|Mystery|Romance
+452,Alludu Adhurs,Drama
+453,Amaram Akhilam Prema,Comedy|Romance
+454,The American Dream (film),Drama|Thriller
+455,Ammu (2022 film),Adventure|Children|Drama
+456,Ante Sundaraniki,Crime|Drama|Thriller
+457,Anubhavinchu Raja,Thriller
+458,Anukunnadi Okati Ayinadi Okati,Drama|Western
+459,Ardha Shathabdam,Action|Adventure|Crime|Drama|Romance|Thriller
+460,Arjuna Phalguna,Comedy
+461,Ashoka Vanamlo Arjuna Kalyanam,Drama|Romance
+464,Aswathama (film),Action|Adventure|Crime|Thriller
+466,Atithi Devo Bhava (film),Action|Comedy|War
+467,Balamevvadu,Comedy
+468,Bangaru Bullodu (2021 film),Comedy|Romance
+469,Battala Ramaswamy Biopikku,Drama|Romance
+470,Bhala Thandanana,Comedy
+471,Bhamakalapam (film),Comedy
+472,Bhanumathi & Ramakrishna,Comedy|Drama
+473,Bheemla Nayak,Comedy|War
+474,Bheeshma (2020 film),Action|Thriller
+475,Bimbisara (film),Drama
+476,Black (2022 film),Comedy|Drama
+477,Bloody Mary (2022 film),Drama|Musical
+478,Bombhaat,Comedy|Crime|Drama
+479,Chaavu Kaburu Challaga,Action|Crime|Thriller
+480,Check (film),Action|Adventure|Sci-Fi|Thriller
+481,Choosi Choodangaane,Drama|Thriller
+482,Chor Bazaar (film),Crime|Drama|Thriller
+484,Cinema Bandi,Adventure|Children
+485,Clap (film),Action|Adventure|Comedy|Fantasy
+486,College Kumar (2020 film),Comedy
+487,Colour Photo,Comedy|Western
+488,Coronavirus (film),Drama|Romance
+489,Dear Megha,Comedy
+490,Deyyam (2021 film),Thriller
+491,Dhamaka (2022 film),Drama
+492,Dirty Hari,Comedy|Mystery
+493,Disco Raja,Action|Crime|Drama
+494,DJ Tillu,Action|Adventure|Thriller
+495,Dongalunnaru Jaagratha,Drama
+496,Drushyam 2,Comedy|Drama|Romance|Thriller
+497,Entha Manchivaadavuraa,Comedy|Romance
+499,Eureka (2020 film),Comedy|Romance
+500,F3: Fun and Frustration,Comedy|Drama
+501,Family Drama (film),Drama
+502,Gaali Sampath,Action|Children|Romance
+504,Gamanam (2021 film),Action|Drama|Sci-Fi
+505,Gatham,Comedy
+506,Ghani (2022 film),Drama|Fantasy|Romance
+507,The Ghost (2022 film),Crime|Drama|Thriller
+508,Godse (film),Drama
+509,Good Luck Sakhi,Drama|Romance
+510,Gully Rowdy,Drama
+511,Gundello Godari,Action|Drama
+512,Guvva Gorinka,Horror|Sci-Fi
+513,Happy Birthday (2022 Indian film),Comedy|Mystery|Romance
+514,Hero (2022 film),Comedy
+515,Highway (2022 film),Drama|Romance
+516,HIT: The First Case,Comedy|Drama
+517,HIT: The Second Case,Action|Drama|Mystery
+518,Ichata Vahanamulu Niluparadu,Comedy
+519,Idhe Maa Katha,Action|Crime|Drama|Sci-Fi|Thriller
+520,IIT Krishnamurthy,Comedy
+521,Induvadana,Crime|Thriller
+522,Ishq (2021 film),Action|Drama
+523,Itlu Maredumilli Prajaneekam,Drama
+524,Jaanu (2020 film),Drama
+526,Jathi Ratnalu,Drama
+527,Jayamma Panchayathi,Drama|War
+528,Johaar,Comedy|Drama
+529,Kaadan,Drama
+531,Kanabadutaledu,Children|Drama
+532,Kapatadhaari,Comedy|Crime|Horror
+533,Karthikeya 2,Action|Adventure|Fantasy|Mystery
+534,Katha Kanchiki Manam Intiki,Drama|Romance
+535,Khiladi (2022 film),Drama
+536,Khudiram Bose (film),Drama
+537,Kinnerasani (film),Drama
+538,Konda (film),Drama
+539,Konda Polam,Comedy|Drama|Romance
+540,Krack (film),Thriller
+541,Krishna and His Leela,Action|Sci-Fi|Thriller
+542,Krishna Vrinda Vihari,Comedy|Drama|Romance
+543,Kushi (upcoming film),Comedy|Romance|Thriller
+544,Lakshya (2021 film),Action|Crime
+546,Liger (film),Action|Adventure|Children|Comedy|Fantasy|Sci-Fi
+547,Love Life & Pakodi,Action|Adventure|Thriller
+548,Love Story (2021 film),Action|Mystery|Thriller
+549,Maa Vintha Gaadha Vinuma,Drama|Musical
+550,Macherla niyojakavargam,Comedy|Romance
+551,Macherla Niyojakavargam,Animation|Children|Fantasy|Musical
+552,Maestro (2021 film),Action|Adventure|Comedy|Romance
+553,Maha Samudram,Action|Drama|Western
+555,Mail (film),Crime|Thriller
+556,Major (film),Documentary
+558,Malli Modalaindi,Action|Adventure|Animation|Children|Fantasy
+562,Manasanamaha,Comedy|Drama
+563,Manchi Rojulochaie,Drama|Romance
+564,Masooda,Comedy
+567,Meka Suri,Comedy|Drama
+568,Middle Class Melodies,Comedy|Drama
+569,Ek Mini Katha,Comedy|Drama
+573,Mishan Impossible,Drama
+574,Miss India (film),Comedy|Drama
+575,Mosagallu,Children|Comedy
+577,Most Eligible Bachelor,Adventure|Children|Drama
+579,Mr & Miss,Crime|Thriller
+580,Mugguru Monagallu (2021 film),Drama
+581,Murder (2020 film),Documentary
+583,Naandhi,Comedy|Drama
+585,Natyam,Comedy
+586,Neetho (2022 film),Children|Comedy
+587,Nenu Meeku Baaga Kavalsinavaadini,Comedy|Drama|Fantasy|Romance|Thriller
+588,Net (film),Adventure|Animation|Children|Comedy|Musical
+589,Ninnila Ninnila,Action|Sci-Fi
+590,Nishabdham,Adventure|Drama|Western
+592,Odela Railway Station,Action|Crime|Thriller
+593,Oke Oka Jeevitham,Crime|Horror|Thriller
+594,Orey Bujjiga,Animation|Children|Drama|Fantasy|Musical
+595,Ori Devuda,Animation|Children|Fantasy|Musical|Romance|IMAX
+596,Paagal,Animation|Children|Fantasy|Musical
+597,Pachchis,Comedy|Romance
+599,Pakka Commercial,Adventure|Western
+600,Palasa 1978,Action|Comedy|Crime
+602,Pelli SandaD,Documentary
+605,Pitta Kathalu,Drama|Romance
+606,Power Play (2021 film),Fantasy|Horror
+608,Prema Pipasi,Comedy|Crime|Drama|Thriller
+609,Pressure Cooker (2020 film),Adventure|Children
+610,Priyuraalu,Action|Adventure|Animation|Horror|Sci-Fi
+611,Project K (film),Action|Horror|Sci-Fi
+612,Pushpa: The Rise,Comedy
+613,Pushpaka Vimanam,Drama|Romance
+615,Raahu,Comedy|Drama
+616,Radhe Shyam,Animation|Children
+617,Raja Raja Chora,Comedy|Drama
+618,Raja Vikramarka (2021 film),Comedy|Romance
+619,Raktham - The Blood,Comedy
+626,Ram Asur,Comedy
+627,Ramarao on Duty,Drama|Thriller
+628,Rang De,Crime|Drama|Mystery|Thriller
+631,Ranga Ranga Vaibhavanga,Adventure|Animation|Children|Fantasy|Musical|Romance
+632,Ravanasura (film),Drama|War
+633,Red (2021 film),Comedy
+634,Republic (film),Comedy
+635,Romantic (film),Comedy|Drama
+636,Rowdy Boys,Drama
+637,RRR (film),Comedy
+638,Run (2020 Indian film),Romance
+639,Sadha Nannu Nadipe,Comedy|Drama
+640,Salaar,Drama|Thriller
+645,Sarileru Neekevvaru,Drama
+647,Sarkaru Vaari Paata,Action|Crime|Drama|War
+648,Sashi (film),Action|Adventure|Mystery|Thriller
+649,Savaari (2020 film),Comedy|Drama
+650,Sebastian P.C. 524,Drama
+653,Seetimaarr,Action|Adventure|Fantasy
+656,Sehari,Comedy
+661,Shaadi Mubarak (film),Adventure|Animation|Children|Fantasy|Musical
+662,Shekar (film),Thriller
+663,Sita Ramam,Comedy
+665,Solo Brathuke So Better,Comedy|Drama|War
+667,Son of India (2022 film),Action
+668,SR Kalyanamandapam,Drama
+670,Sreekaram,Drama
+671,Sridevi Soda Center,Comedy|Sci-Fi
+673,Stand Up Rahul,Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi
+674,Super Machi,Adventure|Comedy|Sci-Fi
+678,Super Over (film),Drama|Thriller
+679,Suraapanam,Drama
+680,Swathi Muthyam (2022 film),Drama|Mystery|Romance|Sci-Fi|Thriller
+685,Tees Maar Khan (2022 film),Drama
+688,Thank You (2022 film),Action|Adventure|Comedy|War
+691,Thank You Brother,Comedy|Romance
+692,Thedu,Action|Sci-Fi|Thriller
+694,Thellavarithe Guruvaram,Action|Crime|Drama
+695,Thimmarusu,Mystery|Thriller
+697,Meeku Maathrame Cheptha,Drama|Romance
+698,Meeku Meere Maaku Meme,Drama
+700,Meelo Evaru Koteeswarudu (film),Comedy
+703,Mem Vayasuku Vacham,Drama
+704,Middle Class Abbayi,Action|Adventure
+706,Minugurulu,Drama
+707,Mirapakay,Crime|Drama|Thriller
+708,Avengers(full series),Comedy|Romance
+709,star wars(full),Adventure|Animation|Children|Comedy|Musical
